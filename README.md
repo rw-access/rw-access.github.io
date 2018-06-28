@@ -1,6 +1,6 @@
 # Projects
 
-- ## [CASCADE](/cascade)
+- **[CASCADE](/cascade)** (*MITRE*)
 
 # Blog Posts
 
