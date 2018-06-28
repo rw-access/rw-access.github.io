@@ -1,3 +1,1 @@
-# Ross Wolf  `rw-access`
-
-* [CASCADE](/cascade)
+# [CASCADE](/cascade)
