@@ -18,14 +18,14 @@ _Apr 2015 - Jan 2017_
 
 - **CASCADE Project Lead**: Created and led development of an application to automatically correlate and triage detected malicious activity on endpoints.
 - **Adversary Emulation**: Performed red teaming for MITRE and government sponsors, leveraging ATT&CK&reg; and novel techniques to improve organizational resilience.  
-- **Custom Sensor Development**: Designed and implemented a Windows endpoint sensor to detect and prevent malicious credential access.
+- **Windows Sensor Development**: Designed and implemented a Windows endpoint sensor to detect and prevent malicious credential access.
 - **CALDERA Development**: Developed and patented CALDERA, a platform to automate adversary emulation based on ATT&CK&reg; techniques.  
 
 ### Cyber Security Engineer
 _Jun 2013 – Apr 2015_
 
 - **Detection Engineering**: Authored novel analytics for the [Cyber Analytics Repository](https://car.mitre.org) to reduce attacker dwell time and built custom tooling to enhance blue team investigation processes
-- **API anomaly detection**: Built software that encompassed a Windows driver and service to hook and trace Windows APIs, along with analysis to detect anomalies in system call flows with symbol matching.
+- **API tracing and anomaly detection**: Built software that encompassed a Windows driver and service to hook and trace Windows APIs, along with analysis to detect anomalies in system call flows with symbol matching.
 - **Core Research Contributions**: Collaborated on several neighboring projects tied to ATT&CK&reg;, advancing both detection and response strategies.
 
 ## Recognitions
