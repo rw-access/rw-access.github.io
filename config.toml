@@ -1,0 +1,59 @@
+baseURL = "https://rw-access.dev"
+languageCode = "en-us"
+title = "Ross Wolf"
+theme = "papermod"
+
+# Site Params
+[params]
+  title = "Ross Wolf"
+  # description = "Experienced software and cybersecurity engineer" # meta only
+  favicon = "/favicon.ico"
+  DateFormat = "January 2006"
+
+
+  # Enable Profile Mode
+  [params.profileMode]
+  enabled = true
+  title = "Ross Wolf"
+  subtitle = "Experienced software and cybersecurity engineer"
+  imageUrl = "images/headshot.jpg"
+  imageWidth = 200
+  imageHeight = 200
+  imageTitle = "Ross Wolf"
+
+    [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/rossdwolf"
+
+    [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/rw-access"
+
+    [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/rw_access"
+
+    [[params.socialIcons]]
+    name = "bluesky"
+    url = "https://bsky.app/profile/rw-access.dev"
+
+
+# Menu Navigation
+[menu]
+  [[menu.main]]
+    identifier = "experience"
+    name = "Experience"
+    url = "/experience/"
+    weight = 1
+
+#   [[menu.main]]
+#     identifier = "projects"
+#     name = "Projects"
+#     url = "/projects/"
+#     weight = 2
+
+#   [[menu.main]]
+#     identifier = "contact"
+#     name = "Contact"
+#     url = "mailto:your-email@example.com"
+#     weight = 3
